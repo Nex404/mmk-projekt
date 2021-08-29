@@ -1,0 +1,1155 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.8.18)  29 AUG 2021 09:26
+entering extended mode
+**./mmk-projekt.tex
+(mmk-projekt.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+(/home/dd/local-tex/tubaf-latex/tex/latex/tubaf-base/TUBAFarbeiten.cls
+Document Class: TUBAFarbeiten 2019/04/01 v.2.5.1 Benkert, TUBAF-LaTeX
+Klasse TUBAFarbeiten 2019/04/01 2.5.1 Thomas Benkert
+                     TUBAF-LaTeX: Corporate Design 2013
+                     Qualifizierungsarbeiten der TU Bergakademie Freiberg
+(/home/dd/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/dd/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(/home/dd/.miktex/texmfs/install/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count182
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/home/dd/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count183
+\calc@Bcount=\count184
+\calc@Adimen=\dimen138
+\calc@Bdimen=\dimen139
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count185
+\calc@Cskip=\skip49
+)
+(/home/dd/local-tex/tubaf-latex/tex/latex/tubaf-base/TUBAFbausteinebefehle.sty
+Package: TUBAFbausteinebefehle 2019/04/01 v.2.5.1 Thomas Benkert TUBAF-CD: Befe
+hle und Umgebungen
+
+Package TUBAFbausteinebefehle 2019/04/01 v.2.5.1 Thomas Benkert
+                              TUBAF-LaTeX: Corporate Design 2013
+                              Befehle und Umgebungen fuer alle
+                              TUBAF-LaTeX-Klassen und -Pakete
+                              TU Bergakademie Freiberg
+(/home/dd/.miktex/texmfs/install/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/home/dd/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/home/dd/.miktex/texmfs/install/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\TUBAFtmpdima=\skip50
+\TUBAFtmpdimb=\skip51
+\TUBAFtmpdimc=\skip52
+\c@TUBAFtmpcnta=\count186
+\c@TUBAFtmpcntb=\count187
+\c@TUBAFtmpcntc=\count188
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2021/06/25 v3.34 KOMA-Script document class (article)
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
+
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/06/25 v3.34 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip53
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 135.
+Class scrartcl Info: File `scrsize11pt.clo' used instead of
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 224
+1.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2021/06/25 v3.34 KOMA-Script font size class option (11pt
+)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/06/25 v3.34 KOMA-Script package (type area)
+\ta@bcor=\skip54
+\ta@div=\count189
+\ta@hblk=\skip55
+\ta@vblk=\skip56
+\ta@temp=\skip57
+\footheight=\skip58
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1742.
+)
+\c@part=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\scr@dte@section@maxnumwidth=\skip59
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4851.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4851.
+\scr@dte@part@maxnumwidth=\skip60
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4859.
+\scr@dte@subsection@maxnumwidth=\skip61
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4869.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4869.
+\scr@dte@subsubsection@maxnumwidth=\skip62
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4879.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4879.
+\scr@dte@paragraph@maxnumwidth=\skip63
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4890.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4890.
+\scr@dte@subparagraph@maxnumwidth=\skip64
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4900.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4900.
+\abovecaptionskip=\skip65
+\belowcaptionskip=\skip66
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6075.
+
+\scr@dte@figure@maxnumwidth=\skip67
+\c@figure=\count196
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6087.
+
+\scr@dte@table@maxnumwidth=\skip68
+\c@table=\count197
+Class scrartcl Info: Redefining `\numberline' on input line 6251.
+\bibindent=\dimen140
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2021/06/25 v3.34 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2021/06/25 v3.34 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+(/home/dd/local-tex/tubaf-latex/tex/latex/tubaf-base/TUBAFbausteine.sty
+Package: TUBAFbausteine 2019/04/01 v.2.5.1 Thomas Benkert TUBAF-CD: Farben und 
+Formen
+
+Package TUBAFbausteine 2019/04/01 v.2.5.1 Thomas Benkert
+                       TUBAF-LaTeX: Corporate Design 2013
+                       Farben und Formen des CDs
+                       der TU Bergakademie Freiberg
+(/home/dd/.miktex/texmfs/install/tex/latex/textpos/textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box52
+\TP@holdbox=\box53
+\TPHorizModule=\dimen141
+\TPVertModule=\dimen142
+\TP@margin=\dimen143
+\TP@absmargin=\dimen144
+\TPboxrulesize=\dimen145
+\TP@ox=\dimen146
+\TP@oy=\dimen147
+\TP@tbargs=\toks18
+) (/home/dd/local-tex/tubaf-latex/tex/latex/tubaf-base/TUBAFbausteinefarben.sty
+Package: TUBAFbausteinefarben 2019/04/01 v.2.5.1 Thomas Benkert TUBAF-LaTeX
+Package TUBAFbausteinefarben 2019/04/01 v.2.5.1 Thomas Benkert
+                             TUBAF-LaTeX: Corporate Design 2013
+                             Farben des CDs der TU Bergakademie Freiberg
+(/home/dd/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/home/dd/local-tex/tubaf-latex/tex/latex/tubaf-base/TUBAFbausteinelaengen.sty
+Package: TUBAFbausteinelaengen 2019/04/01 v.2.5.1 Thomas Benkert TUBAF-CD: Laen
+gen und Berechnungen
+
+Package TUBAFbausteinelaengen 2019/04/01 v.2.5.1 Thomas Benkert
+                              TUBAF-LaTeX: Corporate Design 2013
+                              Laengen, Skalierungen und andere Berechnungen
+                              fuer TUBAFbausteine.sty
+                              TU Bergakademie Freiberg
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count198
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count199
+\FP@xia=\count266
+\FP@xib=\count267
+\FP@xfa=\count268
+\FP@xfb=\count269
+\FP@rega=\count270
+\FP@regb=\count271
+\FP@regs=\count272
+\FP@times=\count273
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count274
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\TUBAFbausteine@bausteinebasislaenge=\skip69
+\TUBAFrasterweite=\skip70
+\TUBAFwbmSchutzzone=\skip71
+\TUBAFwbmBreiteLogo=\skip72
+\TUBAFwbmBreitewbm=\skip73
+\TUBAFwbmBreiteI=\skip74
+\TUBAFwbmHoeheI=\skip75
+\TUBAFwbmSchutzzoneName=\skip76
+\TUBAFwbmBreiteNamen=\skip77
+\TUBAFwbmCCLBreiteLogo=\skip78
+\TUBAFwbmCCLHoeheLogo=\skip79
+\TUBAFwbmCCLBreitewbm=\skip80
+\TUBAFwbmCCLSchutzzone=\skip81
+\TUBAFwbmCCLinnereSchutzzone=\skip82
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lists
+.tex))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+(/home/dd/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.code
+.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count275
+\c@pgf@countb=\count276
+\c@pgf@countc=\count277
+\c@pgf@countd=\count278
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count279
+ (/home/dd/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.
+def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.cod
+e.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count280
+\pgfsyssoftpath@bigbuffer@items=\count281
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.cod
+e.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count282
+\pgfmath@box=\box55
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.co
+de.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonom
+etric.code.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.c
+ode.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparis
+on.code.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.cod
+e.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.co
+de.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.cod
+e.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integera
+rithmetics.code.tex)))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count283
+))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.
+tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruc
+t.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.co
+de.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.
+tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count284
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate
+.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen181
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformati
+ons.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.t
+ex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code
+.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessi
+ng.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.
+tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen185
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.t
+ex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count285
+\pgf@shadingcount=\count286
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.t
+ex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.cod
+e.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box59
+))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.
+tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency
+.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.cod
+e.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.t
+ex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box60
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-
+65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-
+18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/home/dd/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/home/dd/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.t
+ex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandle
+rs.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count287
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count288
+\tikznumberofchildren=\count289
+\tikznumberofcurrentchild=\count290
+\tikz@fig@count=\count291
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.t
+ex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count292
+\pgfmatrixcurrentcolumn=\count293
+\pgf@matrix@numberofcolumns=\count294
+)
+\tikz@expandcount=\count295
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/t
+ikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))))
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 294.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2021/06/25 v3.34 KOMA-Script font size class option (11pt
+)
+)
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 294.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/dd/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
+\Gm@bindingoffset=\dimen256
+\Gm@wd@mp=\dimen257
+\Gm@odd@mp=\dimen258
+\Gm@even@mp=\dimen259
+\Gm@layoutwidth=\dimen260
+\Gm@layoutheight=\dimen261
+\Gm@layouthoffset=\dimen262
+\Gm@layoutvoffset=\dimen263
+\Gm@dimlist=\toks31
+
+(/home/dd/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/dd/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(/home/dd/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count299
+\U@D=\dimen264
+\l@unhyphenated=\language79
+
+(/home/dd/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count300
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/dd/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/babel-german/ngerman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/babel-german/ngermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(/home/dd/local-tex/tubaf-latex/tex/latex/tubaf-base/TUBAFarbeiten.ldf
+File: TUBAFarbeiten.ldf 2019/04/01 v.2.5.1 Benkert
+
+Datei TUBAFarbeiten.ldf 2019/04/01 v.2.5.1 Thomas Benkert
+                        TUBAF-LaTeX: Corporate Design 2013
+                        sprachabhaengige Anpassungen der
+                        Qualifizierungsarbeiten der TU Bergakademie Freiberg
+)
+1: section
+) (/home/dd/.miktex/texmfs/install/tex/latex/selinput/selinput.sty
+Package: selinput 2019-12-10 v1.6 Semi-automatic input encoding detection (HO)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks32
+\inpenc@posthook=\toks33
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)))
+(/home/dd/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+))
+(/home/dd/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/home/dd/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen265
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
+
+(/home/dd/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/dd/.miktex/texmfs/install/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count303
+
+(/home/dd/.miktex/texmfs/install/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count304
+
+(/home/dd/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen266
+
+(/home/dd/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count305
+\Field@Width=\dimen267
+\Fld@charsize=\dimen268
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/home/dd/.miktex/texmfs/install/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
+
+(/home/dd/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/home/dd/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip83
+) (/home/dd/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count311
+\l__pdf_internal_box=\box65
+)
+(mmk-projekt.aux)
+\openout1 = `mmk-projekt.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(/home/dd/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen269
+\scratchbox=\box66
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen270
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks35
+) (/home/dd/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(85.35818pt, 441.01787pt, 71.13182pt)
+* v-part:(T,H,B)=(56.90546pt, 731.23593pt, 56.90546pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01787pt
+* \textheight=661.43279pt
+* \oddsidemargin=13.0882pt
+* \evensidemargin=13.0882pt
+* \topmargin=-15.36453pt
+* \headheight=17.0pt
+* \headsep=20.27266pt
+* \topskip=11.0pt
+* \footskip=32.53049pt
+* \marginparwidth=42.67912pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\TUBAFarbeiten@parboxmatrikel=\skip84
+\TUBAFarbeiten@parboxautortitel=\skip85
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
+1.
+(/home/dd/.miktex/texmfs/install/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+\TUBAFarbeiten@parboxerklaerungbreite=\skip86
+Package hyperref Info: Link coloring OFF on input line 21.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/home/dd/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/home/dd/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count318
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (mmk-projekt.out) (mmk-projekt.out)
+\@outlinefile=\write4
+\openout4 = `mmk-projekt.out'.
+
+Class scrartcl Info: loading recommended package `bookmark'.
+(scrartcl)           Using `bookmark' together with `hyperref' is recommended,
+(scrartcl)           because of handling of possible bookmark level gaps.
+(scrartcl)           You can avoid loading `bookmark' with KOMA-Script option
+(scrartcl)           `bookmarkpackage=false' before \begin{document} and
+(scrartcl)           you can avoid this message adding:
+(scrartcl)             \usepackage{bookmark}
+(scrartcl)           before \begin{document} on input line 21.
+
+(/home/dd/.miktex/texmfs/install/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(/home/dd/.miktex/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count319
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+
+ []
+
+[1
+
+{/home/dd/.miktex/texmfs/data/pdftex/config/pdftex.map}] (mmk-projekt.toc)
+\tf@toc=\write5
+\openout5 = `mmk-projekt.toc'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+
+[2
+
+] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+[5]
+<norman.png, id=76, 703.62875pt x 525.965pt>
+File: norman.png Graphic file (type png)
+<use norman.png>
+Package pdftex.def Info: norman.png  used on input line 92.
+(pdftex.def)             Requested size: 284.52756pt x 212.6856pt.
+ [6 <./norman.png>] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+<topleveltask.png, id=94, 751.80875pt x 289.08pt>
+File: topleveltask.png Graphic file (type png)
+<use topleveltask.png>
+Package pdftex.def Info: topleveltask.png  used on input line 131.
+(pdftex.def)             Requested size: 441.01787pt x 169.58089pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+<explorer.png, id=96, 769.87625pt x 361.35pt>
+File: explorer.png Graphic file (type png)
+<use explorer.png>
+Package pdftex.def Info: explorer.png  used on input line 140.
+(pdftex.def)             Requested size: 441.01787pt x 207.00272pt.
+[9 <./topleveltask.png> <./explorer.png>]
+<einstellungen.png, id=106, 918.43124pt x 367.3725pt>
+File: einstellungen.png Graphic file (type png)
+<use einstellungen.png>
+Package pdftex.def Info: einstellungen.png  used on input line 149.
+(pdftex.def)             Requested size: 441.01787pt x 176.40965pt.
+<POI.png, id=108, 695.59875pt x 154.5775pt>
+File: POI.png Graphic file (type png)
+<use POI.png>
+Package pdftex.def Info: POI.png  used on input line 158.
+(pdftex.def)             Requested size: 441.01787pt x 98.00229pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<minimap.png, id=110, 722.7pt x 276.03125pt>
+File: minimap.png Graphic file (type png)
+<use minimap.png>
+Package pdftex.def Info: minimap.png  used on input line 167.
+(pdftex.def)             Requested size: 441.01787pt x 168.4462pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+<sim.png, id=113, 829.0975pt x 303.1325pt>
+File: sim.png Graphic file (type png)
+<use sim.png>
+Package pdftex.def Info: sim.png  used on input line 176.
+(pdftex.def)             Requested size: 441.01787pt x 161.24226pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+[10 <./einstellungen.png> <./POI.png>]
+<pfad.png, id=126, 861.2175pt x 658.46pt>
+File: pfad.png Graphic file (type png)
+<use pfad.png>
+Package pdftex.def Info: pfad.png  used on input line 185.
+(pdftex.def)             Requested size: 441.01787pt x 337.19669pt.
+ [11 <./minimap.png> <./sim.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+[12 <./pfad.png>]
+<logic.png, id=145, 1042.89626pt x 745.78625pt>
+File: logic.png Graphic file (type png)
+<use logic.png>
+Package pdftex.def Info: logic.png  used on input line 216.
+(pdftex.def)             Requested size: 441.01787pt x 315.37886pt.
+ [13 <./logic.png>] [14] (mmk-projekt.lof)
+\tf@lof=\write6
+\openout6 = `mmk-projekt.lof'.
+
+ [15]
+(mmk-projekt.lot)
+\tf@lot=\write7
+\openout7 = `mmk-projekt.lot'.
+
+ [16] (mmk-projekt.bbl) [17] (mmk-projekt.aux)
+Package rerunfilecheck Info: File `mmk-projekt.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 28450 strings out of 478873
+ 636112 string characters out of 2855082
+ 1553933 words of memory out of 3000000
+ 45817 multiletter control sequences out of 15000+600000
+ 418126 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 140i,20n,136p,10609b,636s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1095.pk
+> </home/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk>
+ </home/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> 
+</home/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> <
+/home/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx0900.pk> </
+home/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1200.pk> </h
+ome/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </ho
+me/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1095.pk> </hom
+e/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecss0900.pk> </home
+/dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecss1200.pk> </home/
+dd/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1440.pk> </home/d
+d/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx2074.pk> </home/dd
+/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecss1095.pk>
+Output written on mmk-projekt.pdf (17 pages, 1264089 bytes).
+PDF statistics:
+ 672 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+
